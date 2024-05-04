@@ -1,10 +1,10 @@
 # Домашнее задание к лекции 2 «Функции»
 
 ## Решения
- * <a href="https://github.com/Nephedov/bjs-2-homeworks/blob/123e42e51abae9fd57681cf6ad6b5caf30f31540/2.functions/task.js">task.js</a> - код с реализованными функциями.
+ * <a href="https://github.com/Nephedov/bjs-2-homeworks/blob/bjs-53/2.functions/task.js">task.js</a> - код с реализованными функциями.
 
-<a href="https://github.com/Nephedov/bjs-2-homeworks/tree/123e42e51abae9fd57681cf6ad6b5caf30f31540/2.functions">Репозиторий</a> с заданием и тестами.
-Запуск через <a href="https://github.com/Nephedov/bjs-2-homeworks/blob/123e42e51abae9fd57681cf6ad6b5caf30f31540/2.functions/index.html">index.html</a>.
+<a href="https://github.com/Nephedov/bjs-2-homeworks/tree/bjs-53/2.functions">Репозиторий</a> с заданием и тестами.
+Запуск через <a href="https://github.com/Nephedov/bjs-2-homeworks/blob/bjs-53/2.functions/index.html">index.html</a>.
 
 ## Что было сделано
 * Реализована функция определения миннимального, максимального и среднего арифметического значения массива целочисленных элементов.
