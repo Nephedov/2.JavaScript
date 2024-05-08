@@ -1,4 +1,4 @@
-# Домашнее задание к лекции 2 «Функции»
+# «Функции»
 
 ## Решения
  * <a href="https://github.com/Nephedov/bjs-2-homeworks/blob/bjs-53/2.functions/task.js">task.js</a> - код с реализованными функциями.
